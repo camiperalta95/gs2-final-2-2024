@@ -1,0 +1,2 @@
+Historia de usuario: se escriben en lenguaje cliente/negocio, son flexibles y facil de modificar.
+Casos de uso: son documentos mas formales e informativos respecto al sistema.

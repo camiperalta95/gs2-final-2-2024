@@ -1,0 +1,35 @@
+Proceso SCRUM:
+1- Reunion con los interesados del proyecto, Stackholder
+Product Owner crea y prioriza el Product Backlog con los requerimientos del proyecto.
+2- Sprint Planning:
+
+El equipo selecciona items del Product Backlog
+Se crea el Sprint Backlog
+Duración: típicamente 2-4 semanas
+
+
+3- Durante el Sprint:
+
+Daily Scrum (15 minutos): El equipo sincroniza actividades
+Desarrollo iterativo del producto
+El Scrum Master ayuda en caso de ser requerido.
+
+
+3-Sprint Review:
+
+Demo del producto al final del Sprint
+Feedback de stakeholders
+Product Backlog se actualiza
+
+
+4- Sprint Retrospective:
+
+Equipo analiza qué funcionó y qué mejorar
+Se planean mejoras para el siguiente Sprint
+
+
+El ciclo se repite hasta completar el proyecto o agotar el presupuesto/tiempo
+
+Actores : product owner, scrum master, stakeholders, equipo de desarrollo.
+Artefactos: product Backlog, sprint Backlog.
+Ceremonias: sprint Planning, Daily, Review, Retrospective.
